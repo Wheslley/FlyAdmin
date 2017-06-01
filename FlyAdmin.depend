@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496250846 source:c:\users\703450\desktop\flyadmin\flyadmin\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1496291418 source:f:\flyadmin\flyadmin\main.c
+	<stdio.h>
+
